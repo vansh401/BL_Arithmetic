@@ -1,14 +1,18 @@
 class Calculator{
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> feature-multiply
 public static int multiply(int a,int b){
 	return a*b;
 }
 
+<<<<<<< HEAD
 
 public static int division(int a,int b){
 	return a/b;
 }
->>>>>>> feature-division
+
 public static void main(String args[]){
 
 }
